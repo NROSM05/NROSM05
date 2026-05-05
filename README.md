@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Noureldin Osman 👋<br><br>I'm a final-year BSc (Hons) Computer Science & AI student at Kingston University (graduating June 2026).<br><br>I'm a developer with a passion for building practical projects and a proven background in technical communication and leadership from my 1.5+ years as a Coding Instructor.
+Hi, I'm Noureldin Osman 👋<br><br>I'm a final-year BSc (Hons) Computer Science & AI student at Kingston University (graduating June 2026).<br><br>I'm a developer with a passion for building practical projects and a proven background in technical communication and leadership from my 2+ years as a Coding Instructor.
 
 
 ## 🌐 Socials:
